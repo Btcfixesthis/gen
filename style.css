@@ -1,0 +1,74 @@
+body{
+    background-color: #f4f3ff;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.head1{
+    font-size: 55px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.head2{
+    font-size: 1.3rem;
+    margin-top: -50px;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top:;
+}
+
+.winner1, .winner2, .winner3{
+    margin-top: 2px;
+    background-color: #6EC207;
+    border-radius: 10px;
+    padding: 10px 30px 10px 30px;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.paragraph{
+    background-color: #fff;
+    padding: 30px 300px 30px 300px;
+    border-radius: 10px;
+}
+
+.winner1-back{
+    color: #FFD700;
+
+}
+
+.winner2-back{
+    color: #C0C0C0;
+}
+
+.winner3-back{
+    color: #CE8946;
+}
+
+.but{
+    font-size: 20px;
+    padding: 5px 20px 5px 20px;
+    border-radius: 10px;
+    background-color: #FFD700;
+    color: #000;
+    font-weight: bolder;
+}
+
+.winner-back{
+    background-color: #117554;
+}
+
+
+
+
